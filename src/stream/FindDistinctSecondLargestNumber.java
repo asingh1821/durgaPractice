@@ -1,10 +1,9 @@
 package stream;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class FindSecondLargestNumber {
+public class FindDistinctSecondLargestNumber {
     public static void main(String[] args) {
 
         List<Integer> list = Arrays.asList(23, 19, 6, 45, 30, 98, 33, 12);
