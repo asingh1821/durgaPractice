@@ -12,6 +12,10 @@ public class MapToInt {
                 .mapToInt(s->Integer.parseInt(s))
                 .toArray();
 
+        /**
+         * mapToInt() takes each stream string element and convert it into
+         * int.
+         */
         Arrays.stream(mapTOoInt).forEach(System.out::print);
     }
 }
