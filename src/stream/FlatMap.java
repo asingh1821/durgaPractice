@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class FlatMap {
+
     public static void main(String[] args) {
         List<List<Integer>> listOflist = Arrays.asList(
                 Arrays.asList(1,2,3),
