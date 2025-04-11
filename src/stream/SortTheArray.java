@@ -9,7 +9,7 @@ public class SortTheArray {
         Stream<Integer> sortedArray = Arrays.stream(arr)
                 .sorted();
 
-        // way to print a strem
+        // way to print a stream
 
          sortedArray.forEach(System.out::print);
 

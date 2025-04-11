@@ -16,7 +16,8 @@ public class SortMarksUsingComparator {
         marks.add(34);
         marks.add(54);
         System.out.println(marks);
-        List<Integer> sortedMarks = marks.stream().sorted((i1, i2)-> ((i1>i2)?-1:(i1<i2)?1:0))
+        List<Integer> sortedMarks = marks.stream()
+                .sorted((i1, i2)-> ((i1>i2)?-1:(i1<i2)?1:0))
                                      .collect(Collectors.toList());
         System.out.println(sortedMarks);
 
