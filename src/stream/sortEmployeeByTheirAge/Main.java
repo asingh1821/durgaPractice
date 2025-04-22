@@ -16,6 +16,6 @@ public class Main {
         List<Employee> result = map.stream()
                 .sorted((a,b)-> a.getAge()-b.getAge())
                 .collect(Collectors.toList());
-        result.forEach((employee) -> System.out.println(employee.getAge()));
+        result.forEach((employee) -> System.out.print(employee.getAge()+" "));
     }
 }

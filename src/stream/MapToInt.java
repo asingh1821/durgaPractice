@@ -9,7 +9,7 @@ public class MapToInt {
     public static void main(String[] args) {
         List<String> list = Arrays.asList("2","1","3","5","7");
         int[] mapTOoInt = list.stream()
-                .mapToInt(s->Integer.parseInt(s))
+                .mapToInt(Integer::parseInt)
                 .toArray();
 
         /**
