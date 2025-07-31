@@ -15,7 +15,7 @@ public class PrintAllPlayersNameFromListOfListAsAFinalList {
         List<List<String>> finalList = Arrays.asList(list1,list2,list3);
 
         List<String> printList = finalList.stream()
-                .flatMap(s->s.stream()).collect(Collectors.toList());
+                .flatMap(s->s.stream().map((a)-> a.toLowerCase())).collect(Collectors.toList());
         System.out.println(printList);
     }
 

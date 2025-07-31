@@ -1,6 +1,7 @@
 package stream;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -48,5 +49,6 @@ public class SortEmployeeByAgeSalaryAndName {
         list.stream()
                 .sorted((a,b)-> b.getName().compareTo(a.getName()))
                 .forEach((a)->System.out.println(a.getName()+" "+a.getAge()+" "+a.getSalary()));
+
     }
 }

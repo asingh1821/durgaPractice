@@ -31,8 +31,7 @@ public class PrintStudentListOfList {
         );
         List<List<Student>> finalList = Arrays.asList(list1,list2);
         List<String> s1 = finalList.stream()
-                .flatMap(s->s.stream())
-                .map(l->l.name)
+                .flatMap(s->s.stream().map(l->l.name))
                 .collect(Collectors.toList());
         System.out.println(s1);
     }

@@ -10,8 +10,8 @@ public class SumOfSquareOfEvenNumbersFromAListOfInteger {
         List<Integer> num = Arrays.asList(1,2,3,4,5,6);
         int sumOfSquareOfEvenNumber = num.stream()
                 .filter(number -> number %2 == 0)
-                .mapToInt(number -> number * number)
-                .sum();
+                .map(number -> number * number)
+                .reduce(0,(x,y)->x+y);
         System.out.print(sumOfSquareOfEvenNumber);
 
         }

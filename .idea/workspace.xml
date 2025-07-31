@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DurgaClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/FilterMethod.java" afterDir="false" />
+    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="eighth commit">
+      <change afterPath="$PROJECT_DIR$/src/OopsPractice/first/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPattern/factoryDesignPattern/example1/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPattern/factoryDesignPattern/example3/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withoutStrategyPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/UsingThreadClass/ThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/usingTwoThreadsFindLastValueAs500/UpdatedValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/AvgPersonAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/CheckPrimeNumberInAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/FindMaxLengthOfTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/IntersectionBetweenTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/SumOftransactionAmountEachDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/FindNotNullNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindNotNullNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/FindSecondLargestNumberFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindSecondLargestNumberFromList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/MinMaxFromAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/MinMaxFromAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/PrintAllPlayersNameFromListOfListAsAFinalList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/PrintAllPlayersNameFromListOfListAsAFinalList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/PrintStudentListOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/PrintStudentListOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/SecondHighestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SecondHighestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/SortEmployeeByAgeSalaryAndName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SortEmployeeByAgeSalaryAndName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/SumOfSquareOfEvenNumbersFromAListOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SumOfSquareOfEvenNumbersFromAListOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/sortEmployeeByTheirAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/sortEmployeeByTheirAge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,24 +47,143 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;asingh1821&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:asingh1821/durgaPractice.git&quot;,
+    &quot;accountId&quot;: &quot;05d98c60-253a-4a3b-b668-a4605f6e92ba&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nUMWOA4AEOaFPOXsN6bdPdhTX3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AvgPersonAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckPrimeNumberInAList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenateTwoStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertEachStringIntoUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountMaximumSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfFailedStudents.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLastElementOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLengthGreaterThan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMaxLengthOfTheString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMaximumPriceGreaterThanRangeOfProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNotNullNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNumbersOfEachCharactersInAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindOccurenceOfEachCharatersInAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSecondLargestNumberFromList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindStringLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatteringListOfObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEachMehodOfStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionBetweenTwoList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListToMapConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapToInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMaxFromAList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverlappingIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintAllPlayersNameFromListOfListAsAFinalList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintDuplicateCharacterFromAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintFirstGivenNumberValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStudentListOfList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintTheMaximumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondHighestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfSquareOfEvenNumbersFromAListOfInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOftransactionAmountEachDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stream.sortEmployeeByTheirAge.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="FilterMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FilterMethod" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="linkedList.circularLinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindMaxLengthOfTheString">
+    <configuration name="FindMaxLengthOfTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindMaxLengthOfTheString" />
+      <module name="DurgaClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSecondLargestNumberFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindSecondLargestNumberFromList" />
+      <module name="DurgaClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionBetweenTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.IntersectionBetweenTwoList" />
+      <module name="DurgaClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.MergeTwoSortedList" />
+      <module name="DurgaClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOftransactionAmountEachDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.SumOftransactionAmountEachDay" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilterMethod" />
+        <item itemvalue="Application.FindMaxLengthOfTheString" />
+        <item itemvalue="Application.FindSecondLargestNumberFromList" />
+        <item itemvalue="Application.SumOftransactionAmountEachDay" />
+        <item itemvalue="Application.IntersectionBetweenTwoList" />
+        <item itemvalue="Application.MergeTwoSortedList" />
       </list>
     </recent_temporary>
   </component>
@@ -69,7 +213,315 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729023233674</updated>
+      <workItem from="1749413240433" duration="10594000" />
+      <workItem from="1750755855313" duration="1128000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1729024144098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729024144098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1729025345161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729025345161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1729025695688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729025695688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fourth commit">
+      <option name="closed" value="true" />
+      <created>1729027426200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027426200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fifth commit">
+      <option name="closed" value="true" />
+      <created>1729141756095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729141756095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sixth commit">
+      <option name="closed" value="true" />
+      <created>1729142921938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729142921938</updated>
+    </task>
+    <task id="LOCAL-00007" summary="seventh commit">
+      <option name="closed" value="true" />
+      <created>1729144363699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729144363699</updated>
+    </task>
+    <task id="LOCAL-00008" summary="eighth commit">
+      <option name="closed" value="true" />
+      <created>1729146951029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729146951029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="just commit">
+      <option name="closed" value="true" />
+      <created>1729543209346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729543209346</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1729603629465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729603629465</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1730058427394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730058427394</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730232852638</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730232852638</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730234853575</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730234853575</updated>
+    </task>
+    <task id="LOCAL-00014" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730556047449</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730556047449</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730653958887</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730653958887</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1731508741311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731508741311</updated>
+    </task>
+    <task id="LOCAL-00017" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1731508952780</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731508952780</updated>
+    </task>
+    <task id="LOCAL-00018" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1741008303652</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741008303652</updated>
+    </task>
+    <task id="LOCAL-00019" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1742840322434</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1742840322434</updated>
+    </task>
+    <task id="LOCAL-00020" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1743343800912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1743343800912</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fourth commit">
+      <option name="closed" value="true" />
+      <created>1743363935015</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1743363935015</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fifth commit">
+      <option name="closed" value="true" />
+      <created>1743784858328</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1743784858328</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fifth commit">
+      <option name="closed" value="true" />
+      <created>1744397213329</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744397213329</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fifth commit">
+      <option name="closed" value="true" />
+      <created>1745336495028</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1745336495028</updated>
+    </task>
+    <task id="LOCAL-00025" summary="eighth commit">
+      <option name="closed" value="true" />
+      <created>1748352376852</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1748352376852</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sixth commit" />
+    <MESSAGE value="seventh commit" />
+    <MESSAGE value="just commit" />
+    <MESSAGE value="final commit" />
+    <MESSAGE value="last commit" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <MESSAGE value="fifth commit" />
+    <MESSAGE value="eighth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="eighth commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/FindLargestLengthOfStringFromAList.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/FindOccurenceOfEachCharatersInAString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PriorityQueue/TestPriority.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/heightOfTheTree/HeightOfTheTree.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/FlatMap.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/addANodeAtTheBegining/AtANodeAtTheBeginingOfTheCircularLinkedList.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumMeeting.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumMeeting.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/OverlappingIntervals.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream/MinMaxFromAList.java</url>
+          <line>19</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/Vehicle.java</url>
+          <line>5</line>
+          <properties field="d" class="designPattern.strategyDesignPattern.withStrategyPattern.Vehicle" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/SportsVehicle.java</url>
+          <line>9</line>
+          <properties class="designPattern.strategyDesignPattern.withStrategyPattern.SportsVehicle" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/customException4/Main.java</url>
+          <line>3</line>
+          <properties class="customException4.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
