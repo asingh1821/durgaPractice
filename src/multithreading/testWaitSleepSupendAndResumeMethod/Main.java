@@ -25,7 +25,6 @@ public class Main {
         try{
             th1.join();
         }catch(Exception e){
-
         }
         System.out.println("Main thread finished");
     }

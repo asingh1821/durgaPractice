@@ -12,7 +12,7 @@ public class AvgPersonAge {
                 new Person(20,"amit"),
                 new Person(25,"Vibhu"),
                 new Person(27,"Ankit"));
-        double avgAge = personList.stream()
+                double avgAge = personList.stream()
                 .mapToInt(Person::getAge)
                 .average().orElse(0);
         System.out.println("Average Person age is : "+ avgAge);

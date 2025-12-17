@@ -1,2 +1,5 @@
-package solidPrinciples.interfaceSegregationPrinciple.documents;public interface Fax {
+package solidPrinciples.interfaceSegregationPrinciple.documents;
+
+public interface Fax {
+    void facDoc();
 }

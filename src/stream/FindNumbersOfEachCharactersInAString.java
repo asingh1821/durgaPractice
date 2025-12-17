@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class FindNumbersOfEachCharactersInAString {
 
     public static void main(String[] args) {
-        String name = "I am Amit Singh";
+        String name = "my name is Amit Singh";
 
         Map<Character, Long> map = name.chars() //converts the string to IntStream
                 .mapToObj(c -> (char) c)      //converts the int to the char

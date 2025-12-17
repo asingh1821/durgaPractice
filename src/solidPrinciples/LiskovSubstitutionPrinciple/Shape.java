@@ -1,2 +1,6 @@
-package solidPrinciples.LiskovSubstitutionPrinciple;public interface Shape {
+package solidPrinciples.LiskovSubstitutionPrinciple;
+
+public interface Shape {
+
+    double getArea();
 }

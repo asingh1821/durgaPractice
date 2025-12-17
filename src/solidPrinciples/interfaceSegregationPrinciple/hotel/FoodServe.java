@@ -1,2 +1,5 @@
-package solidPrinciples.interfaceSegregationPrinciple.hotel;public interface FoodServe {
+package solidPrinciples.interfaceSegregationPrinciple.hotel;
+
+public interface FoodServe {
+    public abstract void serveFood();
 }

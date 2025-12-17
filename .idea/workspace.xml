@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="eighth commit">
-      <change afterPath="$PROJECT_DIR$/src/OopsPractice/first/WashingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPattern/factoryDesignPattern/example1/WebDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPattern/factoryDesignPattern/example3/WordDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withoutStrategyPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/UsingThreadClass/ThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/usingTwoThreadsFindLastValueAs500/UpdatedValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/AvgPersonAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/CheckPrimeNumberInAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/FindMaxLengthOfTheString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/IntersectionBetweenTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/MergeTwoSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/SumOftransactionAmountEachDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/FindNotNullNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindNotNullNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/FindSecondLargestNumberFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindSecondLargestNumberFromList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/MinMaxFromAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/MinMaxFromAList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/PrintAllPlayersNameFromListOfListAsAFinalList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/PrintAllPlayersNameFromListOfListAsAFinalList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/PrintStudentListOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/PrintStudentListOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/SecondHighestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SecondHighestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/SortEmployeeByAgeSalaryAndName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SortEmployeeByAgeSalaryAndName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/SumOfSquareOfEvenNumbersFromAListOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/SumOfSquareOfEvenNumbersFromAListOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/sortEmployeeByTheirAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/sortEmployeeByTheirAge/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="next code commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +15,7 @@
       <list>
         <option value="module-info" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -125,13 +101,16 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="primaryAndQualifier" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMaxLengthOfTheString">
-    <configuration name="FindMaxLengthOfTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FindMaxLengthOfTheString" />
+  <component name="RunManager" selected="Application.PalindromeProgram">
+    <configuration name="FindLengthGreaterThan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindLengthGreaterThan" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSecondLargestNumberFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FindSecondLargestNumberFromList" />
+    <configuration name="FindListOfSpecificTypedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindListOfSpecificTypedDigit" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionBetweenTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.IntersectionBetweenTwoList" />
+    <configuration name="FindNumbersOfEachCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindNumbersOfEachCharactersInAString" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.MergeTwoSortedList" />
+    <configuration name="FindStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindStringLength" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
@@ -182,26 +161,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOftransactionAmountEachDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.SumOftransactionAmountEachDay" />
+    <configuration name="PalindromeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeProgram" />
       <module name="DurgaClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMaxLengthOfTheString" />
-        <item itemvalue="Application.FindSecondLargestNumberFromList" />
-        <item itemvalue="Application.SumOftransactionAmountEachDay" />
-        <item itemvalue="Application.IntersectionBetweenTwoList" />
-        <item itemvalue="Application.MergeTwoSortedList" />
+        <item itemvalue="Application.PalindromeProgram" />
+        <item itemvalue="Application.FindStringLength" />
+        <item itemvalue="Application.FindNumbersOfEachCharactersInAString" />
+        <item itemvalue="Application.FindListOfSpecificTypedDigit" />
+        <item itemvalue="Application.FindLengthGreaterThan" />
       </list>
     </recent_temporary>
   </component>
@@ -416,11 +389,130 @@
       <option name="project" value="LOCAL" />
       <updated>1748352376852</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="stream questions">
+      <option name="closed" value="true" />
+      <created>1753913601807</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1753913601807</updated>
+    </task>
+    <task id="LOCAL-00027" summary="stream questions">
+      <option name="closed" value="true" />
+      <created>1753969075919</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1753969075919</updated>
+    </task>
+    <task id="LOCAL-00028" summary="stream questions">
+      <option name="closed" value="true" />
+      <created>1753969593237</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1753969593237</updated>
+    </task>
+    <task id="LOCAL-00029" summary="test question commit">
+      <option name="closed" value="true" />
+      <created>1754071134073</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1754071134073</updated>
+    </task>
+    <task id="LOCAL-00030" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900066898</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900066901</updated>
+    </task>
+    <task id="LOCAL-00031" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900074856</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900074856</updated>
+    </task>
+    <task id="LOCAL-00032" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900076215</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900076215</updated>
+    </task>
+    <task id="LOCAL-00033" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900076852</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900076852</updated>
+    </task>
+    <task id="LOCAL-00034" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900077119</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900077119</updated>
+    </task>
+    <task id="LOCAL-00035" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900077374</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900077374</updated>
+    </task>
+    <task id="LOCAL-00036" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900090435</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900090435</updated>
+    </task>
+    <task id="LOCAL-00037" summary="next code commit">
+      <option name="closed" value="true" />
+      <created>1765900112538</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1765900112538</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sixth commit" />
@@ -434,7 +526,10 @@
     <MESSAGE value="fourth commit" />
     <MESSAGE value="fifth commit" />
     <MESSAGE value="eighth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="eighth commit" />
+    <MESSAGE value="stream questions" />
+    <MESSAGE value="test question commit" />
+    <MESSAGE value="next code commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="next code commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,6 +591,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/primaryAndQualifier/Car.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/designPattern/strategyDesignPattern/withStrategyPattern/Vehicle.java</url>

@@ -1,2 +1,7 @@
-package primaryAndQualifier;public interface Vehicle {
+package primaryAndQualifier;
+
+public interface Vehicle {
+
+    public int noOfWheels();
+
 }

@@ -3,7 +3,7 @@ package array2d;
 public class SearchTargetNumberByBinarySearch {
     public static void main(String[] args) {
         int[][] grid = {{3,4,7,9}, {12,13,16,18}, {20,21,23,29}};
-        int targetNumber = 30;
+        int targetNumber = 12;
         boolean numberIsPresent = isTargetPresent(grid, targetNumber);
         System.out.println("The target number "+ targetNumber + "is present : "+ numberIsPresent);
     }

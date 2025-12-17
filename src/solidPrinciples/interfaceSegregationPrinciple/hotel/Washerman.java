@@ -1,8 +1,8 @@
 package solidPrinciples.interfaceSegregationPrinciple.hotel;
 
-public class Washers implements WashUtensils{
+public class Washerman implements WashUtensils{
     @Override
     public void washing() {
-        System.out.println("Washers are washing utensils");
+        System.out.println("Washerman are washing utensils");
     }
 }
