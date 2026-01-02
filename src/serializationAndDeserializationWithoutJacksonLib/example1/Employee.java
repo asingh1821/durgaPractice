@@ -1,4 +1,4 @@
-package serializationAndDeserializationWithoutJacksonLib;
+package serializationAndDeserializationWithoutJacksonLib.example1;
 
 import java.io.Serializable;
 
