@@ -1,0 +1,2 @@
+package serializationAndDeserializationWithoutJacksonLib.exampleUsingTransientStatic;public class Sol {
+}
