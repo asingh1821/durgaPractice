@@ -1,4 +1,6 @@
-package serializationAndDeserializationWithoutJacksonLib;
+package serializationAndDeserializationWithoutJacksonLib.example1;
+
+import serializationAndDeserializationWithoutJacksonLib.example1.Employee;
 
 import java.io.*;
 
