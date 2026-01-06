@@ -1,6 +1,6 @@
 package stream;
 
-import hashCodeAndEqualsContract.Person;
+import hashCodeAndEqualsContract.example1.Person;
 
 import java.util.Arrays;
 import java.util.List;
