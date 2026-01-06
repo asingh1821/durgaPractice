@@ -1,2 +1,4 @@
-package sealedClass;public class A {
+package sealedClass;
+
+public sealed class A permits B,C{
 }
