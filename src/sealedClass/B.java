@@ -1,2 +1,4 @@
-package sealedClass;public class B {
+package sealedClass;
+
+public final class B extends A{
 }

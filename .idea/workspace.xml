@@ -108,13 +108,13 @@
       <recent name="linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntersectionBetweenTwoList">
-    <configuration name="FindNumbersOfEachCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FindNumbersOfEachCharactersInAString" />
+  <component name="RunManager" selected="Application.Sol">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashCodeAndEqualsContract.example1.Main" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="hashCodeAndEqualsContract.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.FindStringLength" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overloading.Practice" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachMehodOfStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.ForEachMehodOfStream" />
+    <configuration name="Sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serializationAndDeserializationWithoutJacksonLib.exampleUsingTransientStatic.Sol" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="serializationAndDeserializationWithoutJacksonLib.exampleUsingTransientStatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionBetweenTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.IntersectionBetweenTwoList" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashCodeAndEqualsContract.example2.Solution" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="hashCodeAndEqualsContract.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,20 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeProgram" />
+    <configuration name="serializationAndDeserializationWithoutJacksonLib.example2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
       <module name="DurgaClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serializationAndDeserializationWithoutJacksonLib.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntersectionBetweenTwoList" />
-        <item itemvalue="Application.ForEachMehodOfStream" />
-        <item itemvalue="Application.PalindromeProgram" />
-        <item itemvalue="Application.FindStringLength" />
-        <item itemvalue="Application.FindNumbersOfEachCharactersInAString" />
+        <item itemvalue="Application.Sol" />
+        <item itemvalue="Application.serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
