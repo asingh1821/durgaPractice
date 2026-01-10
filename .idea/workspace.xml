@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="next code commit" />
+    <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="next code commit">
+      <change afterPath="$PROJECT_DIR$/src/DiamondProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sealedClass/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sealedClass/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sealedClass/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/Testing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,26 +115,20 @@
       <recent name="linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sol">
+  <component name="RunManager" selected="Application.DiamondProblem">
+    <configuration name="DiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiamondProblem" />
+      <module name="DurgaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashCodeAndEqualsContract.example1.Main" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hashCodeAndEqualsContract.example2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overloading.Practice" />
-      <module name="DurgaClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiamondProblem" />
         <item itemvalue="Application.Sol" />
         <item itemvalue="Application.serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
