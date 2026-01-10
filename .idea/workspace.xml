@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/src/sealedClass/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sealedClass/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sealedClass/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/FindDistinctSecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindDistinctSecondLargestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,7 @@
       <recent name="linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiamondProblem">
+  <component name="RunManager" selected="Application.FindDistinctSecondLargestNumber">
     <configuration name="DiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondProblem" />
       <module name="DurgaClasses" />
@@ -123,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashCodeAndEqualsContract.example1.Main" />
+    <configuration name="FindDistinctSecondLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.FindDistinctSecondLargestNumber" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashCodeAndEqualsContract.example2.*" />
+          <option name="PATTERN" value="stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDistinctSecondLargestNumber" />
         <item itemvalue="Application.DiamondProblem" />
         <item itemvalue="Application.Sol" />
         <item itemvalue="Application.serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
