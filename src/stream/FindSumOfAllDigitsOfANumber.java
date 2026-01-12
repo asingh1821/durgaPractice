@@ -7,7 +7,10 @@ public class FindSumOfAllDigitsOfANumber {
                 .chars()                   // converts string to IntStream
                 .map(Character::getNumericValue) // converts each characters to integer
                 .sum();
-
+        /**
+         * alternate of .map(Character::getNumericValue) is
+         * .map(c -> c-'0')
+         */
         System.out.println("sum of number is " + sum);
     }
 }

@@ -6,12 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="5f574919-4a0a-47b8-bf24-26bf8dff16b6" name="Changes" comment="next code commit">
       <change afterPath="$PROJECT_DIR$/src/DiamondProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/waysToCreateThread/example1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/SortAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hashCodeAndEqualsContract/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sealedClass/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sealedClass/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sealedClass/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealedClass/Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stream/FindDistinctSecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindDistinctSecondLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/FindSumOfAllDigitsOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/FindSumOfAllDigitsOfANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +119,7 @@
       <recent name="linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindDistinctSecondLargestNumber">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondProblem" />
       <module name="DurgaClasses" />
@@ -150,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashCodeAndEqualsContract.example2.Solution" />
+    <configuration name="SortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.SortAnArray" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashCodeAndEqualsContract.example2.*" />
+          <option name="PATTERN" value="stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="serializationAndDeserializationWithoutJacksonLib.example2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.waysToCreateThread.example1.Test" />
       <module name="DurgaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serializationAndDeserializationWithoutJacksonLib.example2.*" />
+          <option name="PATTERN" value="multithreading.waysToCreateThread.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SortAnArray" />
         <item itemvalue="Application.FindDistinctSecondLargestNumber" />
         <item itemvalue="Application.DiamondProblem" />
         <item itemvalue="Application.Sol" />
-        <item itemvalue="Application.serializationAndDeserializationWithoutJacksonLib.example2.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
