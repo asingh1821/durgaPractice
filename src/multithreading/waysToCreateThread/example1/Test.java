@@ -2,7 +2,7 @@ package multithreading.waysToCreateThread.example1;
 
 class MyThread extends Thread{
     @Override
-    public void run(){
+    public synchronized void run(){
         System.out.println("name of thread in MyThread class : "+ Thread.currentThread().getName());
     }
 }
