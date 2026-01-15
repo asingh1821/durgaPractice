@@ -5,12 +5,13 @@ import java.util.concurrent.Executors;
 
 public class ExecutorServiceExample {
     public static void main(String[] args) {
-        ExecutorService executor = Executors.newFixedThreadPool(2);
-        executor.submit(()->
-                System.out.println("Test 1 executing"));
-        executor.submit(()->
-                System.out.println("Test 2 executing"));
-
+        ExecutorService executor = Executors.newFixedThreadPool(10);
+        for(int i = 0; i < 10; i++) {
+            executor.submit(() ->
+                    System.out.println("Test 1 executing: " + Thread.currentThread().getName()));
+//            executor.submit(() ->
+//                    System.out.println("Test 2 executing: " + Thread.currentThread().getName()));
+        }
         executor.shutdown();
     }
 }
