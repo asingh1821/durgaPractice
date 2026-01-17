@@ -1,12 +1,7 @@
-package multithreading.waysToCreateThread;
+package multithreading.waysToCreateThread.example1;
 
-class MyThread extends Thread{
+import multithreading.waysToCreateThread.example1.MyThread;
 
-    @Override
-    public void run(){
-        System.out.println("thread running is: "+ Thread.currentThread().getName());
-    }
-}
 public class Test {
     public static void main(String[] args) {
         MyThread thread = new MyThread();
