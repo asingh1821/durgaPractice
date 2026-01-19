@@ -10,8 +10,8 @@ public class ListToMapConversion {
     public static void main(String[] args) {
 
         List<String> list = List.of("banana", "mango", "papaya", "apple");
-        Map<String, Integer> map = list.stream().collect(Collectors
-                .toMap((item) -> item, String::length));
+        Map<String, Integer> map = list.stream()
+                .collect(Collectors.toMap((item) -> item, String::length));
 
         System.out.println(map);
     }
