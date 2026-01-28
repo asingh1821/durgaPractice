@@ -9,7 +9,6 @@ public class MaximumMeeting {
         Solution s = new Solution();
         int val = s.activitySelection(start, finish);
         System.out.println(val);
-
     }
 }
 class Solution {
