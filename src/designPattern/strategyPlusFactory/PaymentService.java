@@ -1,2 +1,6 @@
-package designPattern.strategyPlusFactory;public class PaymentService {
+package designPattern.strategyPlusFactory;
+
+abstract class PaymentService {
+    abstract String payment();
+
 }
